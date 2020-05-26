@@ -10,8 +10,8 @@
     "minimum-stability": "dev",
     "homepage": "http://packages.zendframework.com/",
     "autoload": {
-        "psr-0": {
-            "ZendOAuth": "library/"
+        "psr-4": {
+            "ZendOAuth\\": "library/ZendOAuth"
         }
     },
     "repositories": [
